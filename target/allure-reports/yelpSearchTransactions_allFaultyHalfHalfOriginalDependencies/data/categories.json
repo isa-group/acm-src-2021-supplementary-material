@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "SEVERITY 2: Status 5XX with invalid request",
+    "children" : [ {
+      "name" : "Status code 5XX with invalid request: individual_parameter_constraint:Set parameter longitude with invalid value CyJrjkFjgJ",
+      "children" : [ {
+        "name" : "test_1hbghsmnuplbk_getTransactions",
+        "uid" : "b4f0d41142b65f92",
+        "parentUid" : "57adf6f89ff5fa0bc45d050894073993",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617798051074,
+          "stop" : 1617798051453,
+          "duration" : 379
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57adf6f89ff5fa0bc45d050894073993"
+    }, {
+      "name" : "Status code 5XX with invalid request: individual_parameter_constraint:Set parameter latitude with invalid value GulHOUmjIM",
+      "children" : [ {
+        "name" : "test_1hvb2hb8bikvt_getTransactions",
+        "uid" : "7e84c5ab8ba32f73",
+        "parentUid" : "53a1de4bdcfe2455eafc94ded0d5a586",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617798089529,
+          "stop" : 1617798089835,
+          "duration" : 306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "53a1de4bdcfe2455eafc94ded0d5a586"
+    }, {
+      "name" : "Status code 5XX with invalid request: inter_parameter_dependency",
+      "children" : [ {
+        "name" : "test_1ib5xauci1en7_getTransactions",
+        "uid" : "98ca3c76423795ad",
+        "parentUid" : "307a0374839d0edc96f7dd6d978f86a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617798097660,
+          "stop" : 1617798098266,
+          "duration" : 606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "307a0374839d0edc96f7dd6d978f86a5"
+    } ],
+    "uid" : "0df004dc74b950d4bef7c92c374d7e77"
+  } ]
+}

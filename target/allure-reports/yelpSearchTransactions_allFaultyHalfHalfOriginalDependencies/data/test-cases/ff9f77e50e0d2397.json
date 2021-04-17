@@ -1,0 +1,78 @@
+{
+  "uid" : "ff9f77e50e0d2397",
+  "name" : "test_vbbvymafhstw_getTransactions",
+  "fullName" : "yelpSearchTransactions_allFaultyHalfHalfOriginalDependencies.YelpSearchTransactionsTest_1jifm6jejq3w6.test_vbbvymafhstw_getTransactions",
+  "historyId" : "6a4f39e98018116be70f70747fd88b40",
+  "time" : {
+    "start" : 1617798436428,
+    "stop" : 1617798436729,
+    "duration" : 301
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cce154a0d3fbd70c",
+      "name" : "Request",
+      "source" : "cce154a0d3fbd70c.html",
+      "type" : "text/html",
+      "size" : 681
+    }, {
+      "uid" : "638f9232d33a2bde",
+      "name" : "HTTP/1.1 400 Bad Request",
+      "source" : "638f9232d33a2bde.html",
+      "type" : "text/html",
+      "size" : 1099
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "yelpSearchTransactions_allFaultyHalfHalfOriginalDependencies"
+  }, {
+    "name" : "testClass",
+    "value" : "yelpSearchTransactions_allFaultyHalfHalfOriginalDependencies.YelpSearchTransactionsTest_1jifm6jejq3w6"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_vbbvymafhstw_getTransactions"
+  }, {
+    "name" : "suite",
+    "value" : "yelpSearchTransactions_allFaultyHalfHalfOriginalDependencies.YelpSearchTransactionsTest_1jifm6jejq3w6"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-L9QCAVF"
+  }, {
+    "name" : "thread",
+    "value" : "20868@DESKTOP-L9QCAVF.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff9f77e50e0d2397.json",
+  "parameterValues" : [ ]
+}

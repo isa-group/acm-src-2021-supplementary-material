@@ -1,0 +1,78 @@
+{
+  "uid" : "bec38ef58875d055",
+  "name" : "test_vf3midj77prn_getTransactions",
+  "fullName" : "yelpSearchTransactions_allFaultyParametersIgnoreDependencies.YelpSearchTransactionsTest_s1dv0g8gpjza.test_vf3midj77prn_getTransactions",
+  "historyId" : "e53ad951d0f504bfd3ae58445c22da9a",
+  "time" : {
+    "start" : 1617885142198,
+    "stop" : 1617885142505,
+    "duration" : 307
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "50b35c6dba38beb1",
+      "name" : "Request",
+      "source" : "50b35c6dba38beb1.html",
+      "type" : "text/html",
+      "size" : 641
+    }, {
+      "uid" : "76388da31132d897",
+      "name" : "HTTP/1.1 400 Bad Request",
+      "source" : "76388da31132d897.html",
+      "type" : "text/html",
+      "size" : 1101
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "yelpSearchTransactions_allFaultyParametersIgnoreDependencies"
+  }, {
+    "name" : "testClass",
+    "value" : "yelpSearchTransactions_allFaultyParametersIgnoreDependencies.YelpSearchTransactionsTest_s1dv0g8gpjza"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_vf3midj77prn_getTransactions"
+  }, {
+    "name" : "suite",
+    "value" : "yelpSearchTransactions_allFaultyParametersIgnoreDependencies.YelpSearchTransactionsTest_s1dv0g8gpjza"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-L9QCAVF"
+  }, {
+    "name" : "thread",
+    "value" : "28192@DESKTOP-L9QCAVF.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bec38ef58875d055.json",
+  "parameterValues" : [ ]
+}

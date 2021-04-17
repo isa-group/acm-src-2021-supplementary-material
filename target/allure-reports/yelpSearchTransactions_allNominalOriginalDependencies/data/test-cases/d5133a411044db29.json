@@ -1,0 +1,78 @@
+{
+  "uid" : "d5133a411044db29",
+  "name" : "test_rlb5m5ig6rmt_getTransactions",
+  "fullName" : "yelpSearchTransactions_allNominalOriginalDependencies.YelpSearchTransactionsTest_qdya855sqsdu.test_rlb5m5ig6rmt_getTransactions",
+  "historyId" : "fc985a5dc7f94899dada7c95c25532ee",
+  "time" : {
+    "start" : 1617794520775,
+    "stop" : 1617794521570,
+    "duration" : 795
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fe0b5b9ccdeca96a",
+      "name" : "Request",
+      "source" : "fe0b5b9ccdeca96a.html",
+      "type" : "text/html",
+      "size" : 745
+    }, {
+      "uid" : "fc5b40591483c739",
+      "name" : "HTTP/1.1 200 OK",
+      "source" : "fc5b40591483c739.html",
+      "type" : "text/html",
+      "size" : 43706
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "yelpSearchTransactions_allNominalOriginalDependencies"
+  }, {
+    "name" : "testClass",
+    "value" : "yelpSearchTransactions_allNominalOriginalDependencies.YelpSearchTransactionsTest_qdya855sqsdu"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_rlb5m5ig6rmt_getTransactions"
+  }, {
+    "name" : "suite",
+    "value" : "yelpSearchTransactions_allNominalOriginalDependencies.YelpSearchTransactionsTest_qdya855sqsdu"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-L9QCAVF"
+  }, {
+    "name" : "thread",
+    "value" : "29076@DESKTOP-L9QCAVF.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5133a411044db29.json",
+  "parameterValues" : [ ]
+}

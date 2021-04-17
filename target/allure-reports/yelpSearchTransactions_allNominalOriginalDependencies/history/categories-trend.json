@@ -1,0 +1,7 @@
+[ {
+  "data" : {
+    "SEVERITY 2: Status 400 with valid request" : 49,
+    "SEVERITY 3: Status 5XX with valid request" : 2,
+    "Broken tests" : 4
+  }
+} ]

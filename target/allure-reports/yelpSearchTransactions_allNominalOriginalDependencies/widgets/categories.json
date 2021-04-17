@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "f22d794e8fe95d0705e8d18e1ca5d761",
+    "name" : "SEVERITY 2: Status 400 with valid request",
+    "statistic" : {
+      "failed" : 49,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 49
+    }
+  }, {
+    "uid" : "b5b06c21f9b24444aa848e0da78683c8",
+    "name" : "SEVERITY 3: Status 5XX with valid request",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "3d71959e279938eb4ebf002bd6507f21",
+    "name" : "Broken tests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

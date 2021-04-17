@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "0df004dc74b950d4bef7c92c374d7e77",
+    "name" : "SEVERITY 2: Status 5XX with invalid request",
+    "statistic" : {
+      "failed" : 3,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Broken tests",
+    "children" : [ {
+      "name" : "Connection timed out: connect",
+      "children" : [ {
+        "name" : "test_t4sz0p8zq0di_getTransactions",
+        "uid" : "2eadd6deeab1bfb8",
+        "parentUid" : "105956591b0fa64952678b20981eb604",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617885026781,
+          "stop" : 1617885047793,
+          "duration" : 21012
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "105956591b0fa64952678b20981eb604"
+    } ],
+    "uid" : "3d71959e279938eb4ebf002bd6507f21"
+  } ]
+}

@@ -1,0 +1,61 @@
+[ {
+  "values" : [ "Yelp" ],
+  "name" : "api"
+}, {
+  "values" : [ "https://yelp.com" ],
+  "name" : "api.url"
+}, {
+  "values" : [ "https://yelp.com" ],
+  "name" : "api.doc.url"
+}, {
+  "values" : [ "CBT" ],
+  "name" : "generator"
+}, {
+  "values" : [ "1000" ],
+  "name" : "testsperoperation"
+}, {
+  "values" : [ "src/test/resources/Yelp/swagger.yaml" ],
+  "name" : "oas.path"
+}, {
+  "values" : [ "src/test/resources/Yelp/testConf_transactionsSearch.yaml" ],
+  "name" : "conf.path"
+}, {
+  "values" : [ "src/generation/java/yelpSearchTransactions_allNominalOriginalDependencies" ],
+  "name" : "test.target.dir"
+}, {
+  "values" : [ "yelpSearchTransactions_allNominalOriginalDependencies" ],
+  "name" : "test.target.package"
+}, {
+  "values" : [ "yelpSearchTransactions_allNominalOriginalDependencies" ],
+  "name" : "experiment.name"
+}, {
+  "values" : [ "YelpSearchTransactionsTest" ],
+  "name" : "testclass.name"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.input"
+}, {
+  "values" : [ "true" ],
+  "name" : "coverage.output"
+}, {
+  "values" : [ "true" ],
+  "name" : "stats.csv"
+}, {
+  "values" : [ "1000" ],
+  "name" : "numtotaltestcases"
+}, {
+  "values" : [ "3600" ],
+  "name" : "delay"
+}, {
+  "values" : [ "0" ],
+  "name" : "faulty.ratio"
+}, {
+  "values" : [ "0.5" ],
+  "name" : "faulty.dependency.ratio"
+}, {
+  "values" : [ "100" ],
+  "name" : "reloadinputdataevery"
+}, {
+  "values" : [ "1000" ],
+  "name" : "inputdatamaxvalues"
+} ]

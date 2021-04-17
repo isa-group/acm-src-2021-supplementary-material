@@ -1,0 +1,4 @@
+"Category","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"SEVERITY 2: Status 400 with valid request","49","0","0","0","0"
+"SEVERITY 3: Status 5XX with valid request","2","0","0","0","0"
+"Broken tests","0","4","0","0","0"
